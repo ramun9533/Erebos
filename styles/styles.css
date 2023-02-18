@@ -1,1 +1,48 @@
-
+body {
+  background-color: #333533;
+}
+.logo {
+  height: 50px;
+  width: 50px;
+}
+.position-logo {
+  position: absolute;
+  left: 2%;
+  top: 2%;
+}
+.begin {
+  position: absolute;
+  top: 1%;
+  left: 14%;
+}
+.about-me {
+  position: absolute;
+  top: 1%;
+  left: 28%;
+}
+.services {
+  position: absolute;
+  top: 1%;
+  left: 44%;
+}
+.portafolio {
+  position: absolute;
+  top: 1%;
+  left: 58%;
+}
+.contact {
+  position: absolute;
+  top: 1%;
+  left: 74%;
+}
+.size_contact {
+  height: 12%;
+  width: 12%;
+  margin: 8%;
+  padding: 1%;
+}
+.size_contact_position {
+  position: absolute;
+  top: 2%;
+  left: 85%;
+}
