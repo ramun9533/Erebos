@@ -1,0 +1,23 @@
+.fond-colors{
+  width: 100%;
+  height: 115%;
+  background-color: red;
+  animation-name: fondito;
+  animation-duration: 20s;
+  position: absolute;
+  top: 23%;
+  left: 6%;
+}
+@keyframes fondito {
+  0%{
+    
+    background-color: yellow;
+  
+ }
+ 10%{
+  background-color: blueviolet;
+  background-color: green;
+
+ }
+  
+}
