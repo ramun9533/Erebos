@@ -1,0 +1,33 @@
+.circuit{
+    position: absolute;
+    top: 17%;
+    left: 0%;
+} 
+.imgcir{
+    width: 100%;
+}
+.param{
+    position: absolute;
+    top: 20%;
+    width: 40%;
+    left: 60%;
+}
+p {
+    animation-duration: 12s;
+    animation-name: slidein;
+    animation-iteration-count: initial;
+    color: blanchedalmond;
+  }
+  
+@keyframes slidein {
+    from {
+      margin-left: 100%;
+      width: 300%;
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+}
+  
