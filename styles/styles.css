@@ -63,7 +63,8 @@ body {
   align-items:center;
   justify-content: center;
 }
-/* h3{
-  position: relative;
-  top: 10%;
-} */
+ h3{
+  /* position: relative;
+  top: 10%;  */
+   color: white;
+}
