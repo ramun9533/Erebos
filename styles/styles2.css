@@ -23,7 +23,7 @@
 }
 @keyframes animate {
     0%{
-        transform: rotateX(-30deg) rotateY(36deg);
+        transform: rotateX(-30deg) rotateY(360deg);
     }
 }
 .cube div {
