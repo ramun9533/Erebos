@@ -20,21 +20,25 @@ body {
   position: absolute;
   top: 3%;
   left: 28%;
+  text-decoration:none;
 }
 .services {
   position: absolute;
   top: 3%;
   left: 44%;
+  text-decoration:none;
 }
 .portafolio {
   position: absolute;
   top: 3%;
   left: 58%;
+  text-decoration:none;
 }
 .contact {
   position: absolute;
   top: 3%;
   left: 74%;
+  text-decoration:none;
 }
 .size_contact {
   height: 12%;
