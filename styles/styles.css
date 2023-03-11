@@ -1,6 +1,44 @@
-body {
-  background-color: #222725;
+body{
+  /* background-color: #311432; */
   overflow: hidden;
+  background-color: #343a40;
+}
+main{
+  background-color: #6c757d;
+  top: 0%;
+  left: 0%;
+  height: 6.5%;
+  width: 100%;
+  position: absolute;
+}
+.intro{
+  position: relative;
+  left: 8%;
+  top: 15%;
+}
+.searc{
+  position: absolute;
+  /* top: 15%; */
+  /* height: 15%; */
+  
+}
+.container
+{
+  /* position: absolute;
+  top: 0%; */
+ 
+  background: #311432;
+  display:flex;
+  align-items:center;
+  justify-content: center;
+}
+ul{
+  float: left;
+  width: 100%;
+  margin: 0%;
+  font-weight: bold;
+  list-style-type: none;
+  /* border-bottom: 1px solid #ddd; */
 }
 .logo {
   height: 50px;
@@ -9,50 +47,55 @@ body {
 .position-logo {
   position: absolute;
   left: 2%;
-  top: 3%;
+  top: 7.5%;
 }
 .begin {
   position: absolute;
-  top: 3%;
+  top: 8%;
   left: 14%;
+
 }
 .about-me {
   position: absolute;
-  top: 3%;
+  top: 8%;
   left: 28%;
   text-decoration:none;
 }
 .services {
   position: absolute;
-  top: 3%;
+  top: 8%;
   left: 44%;
   text-decoration:none;
 }
 .portafolio {
   position: absolute;
-  top: 3%;
+  top: 8%;
   left: 58%;
   text-decoration:none;
 }
 .contact {
   position: absolute;
-  top: 3%;
+  top: 8%;
   left: 74%;
   text-decoration:none;
 }
 .size_contact {
-  height: 12%;
-  width: 12%;
-  margin: 8%;
-  padding: 1%;
+  height:8%;
+  width: 8%;
+  margin: 1%;
+  padding-left: 1%;
+  padding-bottom: 1%;
+  margin-left: 5%;
+  /* padding: 1%; */
 }
 .size_contact_position {
-  position: absolute;
-   top: 3%;
-  left: 85%;
+  position:absolute;
+   top: 0%;
+  left: 75%;
+ 
 }
 .barra{
-  background-color: #fb5607;
+  background-color: #ced4da;
   position: absolute;
   top: 16.5%;
   height: 5px;
@@ -60,14 +103,7 @@ body {
   margin: 0%;
   padding-top: 0%;
 }
-.container
-{
-  /* position: absolute;
-  top: 0%; */
-  display:flex;
-  align-items:center;
-  justify-content: center;
-}
+
  h3{
   /* position: relative;
   top: 10%;  */
@@ -75,6 +111,8 @@ body {
    text-decoration:none;
 }
 a{
-  margin: 1%;
+  /* list-style-type: none; */
+  /* font-weight: bold;
+  font-style: none; */
   text-decoration: none;
 }
